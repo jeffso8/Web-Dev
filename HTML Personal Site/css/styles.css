@@ -1,0 +1,17 @@
+body {
+  background-color: #e4f9f5;
+}
+h1{
+  color:#40514e;
+}
+h3:hover{
+  color:#40514e;
+}
+hr{
+  align-items: center;
+  border-color: #11999e;
+  border-style:none;
+  border-top-style: dotted;
+  border-width: 5px;
+  width: 40px;
+}
